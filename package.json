@@ -1,11 +1,19 @@
 {
 	"type": "module",
 	"name": "@nybkox/nest-gitlab",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "NestJS wrapper for gitbeaker GitLab API client",
 	"main": "./dist/index.cjs",
 	"module": "./dist/index.js",
 	"types": "./dist/index.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Nybkox/nest-gitlab.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Nybkox/nest-gitlab/issues"
+	},
+	"homepage": "https://github.com/Nybkox/nest-gitlab#readme",
 	"exports": {
 		".": {
 			"types": "./dist/index.d.ts",

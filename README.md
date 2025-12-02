@@ -4,11 +4,11 @@ A comprehensive NestJS wrapper for `@gitbeaker/rest` with support for multiple G
 
 ## Features
 
-- ✅ Simple configuration with `forRoot()` and `forRootAsync()`
-- ✅ Multiple GitLab instances support
-- ✅ Type-safe dependency injection
-- ✅ Decorator-based instance injection
-- ✅ Global module registration
+- Simple configuration with `forRoot()` and `forRootAsync()`
+- Multiple GitLab instances support
+- Type-safe dependency injection
+- Decorator-based instance injection
+- Global module registration
 
 ## Installation
 
