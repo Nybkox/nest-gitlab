@@ -7,16 +7,17 @@ settings:
 importers:
 
   .:
-    devDependencies:
-      '@biomejs/biome':
-        specifier: 2.3.8
-        version: 2.3.8
+    dependencies:
       '@gitbeaker/rest':
         specifier: ^43.8.0
         version: 43.8.0
       '@nestjs/common':
         specifier: ^11.1.9
         version: 11.1.9(reflect-metadata@0.2.2)(rxjs@7.8.2)
+    devDependencies:
+      '@biomejs/biome':
+        specifier: 2.3.8
+        version: 2.3.8
       '@types/node':
         specifier: ^24.10.1
         version: 24.10.1
